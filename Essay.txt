@@ -1,0 +1,24 @@
+How has your knowledge of the tech field changed since class began?
+
+What was the most difficult part of Foundations for you? And how did you overcome that?
+
+Did you learn anything about the way you learn? What was it?
+
+How will you apply what you know about your learning style during Specializations?
+
+What was your experience with pair programming like?
+
+What parts of Foundations did you enjoy the most? (This could be anything from a specific lab or lecture to the general setup of class or a funny moment.)
+
+
+    Before I started this class I had almost zero knowledge in programming and very little knowledge in the tech field, but I knew it was a field I wanted to get into. But I had very little resources, just a close friend to attended Dev Mountain and my cousin in law thats a projects manager at a tech company in lehi. 
+
+    Its hard for me to point out tge most difficult thing for me throughout this course, because when you are new to something learning everything can seem equally as hard. But I would say the hardest thing for me is to learn how to critially think in a techy way. Im not sure if that makes anysense. But I think when it came to theoretical thinking, that came easy but then when we would try to code out solutions to problems, thats where i struggled. I think the hardest part is to solve problems with code and I am still getting better at that and I am sure I will continue to get better throughout my career.
+
+    I always knew I was a hands on learner but wasnt sure how that correlates within coding. But i learned that like many things coding experience was the best way for me to learn. I know this is obvious but I wasnt sure if it would be the same thing with code. But I felt i learned the most while doing the labs and building my projects
+
+    I will apply the experience and hand on learning in Specs by doing. When I am stuck on understanding a concept or a problem I will try it out, code it up, or watch someone else do it and apply that to my own work. 
+
+    My experience with pair programming was interesting. My experience was all depending on who I was paired with. Someone times I would get paired with really helpful hardworking individuals, as well as curious individuals, which will always be a good thing when someone is curious. But on the flip side I would also get someone who seemed to be a "know it all" or very unhelpful and ignorant so it didnt seem to be a very plesent experience. But Im sure not every one I was paired with found me to be the best partner and thats understandable. So as far as my pair programming went.. it just depends. 
+
+    My favorite thing about this course so far, besides the amazing people and instructors, had to be building my project. Before we started our capstones I was really unsure about all this coding stuff an what not. I was also really scared and insecure to start the project because I wasn't confident with my self and knowledge but the moment i started and thinngs came together is when i started to enjoy it. Seeing it all put together is amazing, especially when its something personale that i built on my own. It something special for sure. 
